@@ -12,6 +12,7 @@ set(msg_files
 set(srv_files
   "srv/SetBatterySaving.srv"
   "srv/SetBatteryVoltageOut.srv"
+  "srv/SetJoystickLock.srv"
   "srv/SetPower.srv"
   "srv/SetSpeedProfile.srv"
 )
