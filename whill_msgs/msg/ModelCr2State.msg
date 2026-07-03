@@ -7,3 +7,5 @@ float32 left_motor_speed
 int32 power_on
 int32 speed_mode_indicator
 int32 error
+int8 joy_front
+int8 joy_side
